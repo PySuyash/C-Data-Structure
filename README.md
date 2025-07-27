@@ -1,11 +1,11 @@
-📦 C Data Structures Repository
-A comprehensive collection of fundamental data structures implemented in C, designed for learning, reference, and practical use. This repository covers a wide range of classic data structures with clean, modular, and well-documented code to support both beginners and experienced developers.
+📦 C Pointers Sample Code 
+This repository consists of sample code of pointers with functions and arrays.
 
 🔧 Features
-✅ Modular Implementation: Each data structure is implemented in separate files with clear interfaces.
+✅ Pointers and Double Pointers.
 
-✅ Well-Commented Code: Easy-to-understand logic with inline documentation.
+✅ Pointers and Arrays.
 
-✅ Test Cases Included: Sample programs to demonstrate usage and validate correctness.
+✅ Accessing & Modifying array elements using pointers.
 
-✅ Performance-Oriented: Efficient algorithms with attention to time and space complexity.
+✅ Basic structures.
