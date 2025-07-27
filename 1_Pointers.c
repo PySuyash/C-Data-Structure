@@ -1,20 +1,14 @@
-// Includeing the header file <stdio.h> for basic functionality.
+// Pointers in c.
+
 #include <stdio.h>
 
-// initilizing the main function.
 int main() {
-    // Creating an integer variable a and assigining value 10 to it.
-    int a = 10;
-
-    // Creating a pointer ptr and assigining the address of variable a using the Addressof (&) Operator.
+    
+    int a = 10;    
     int *ptr = &a;
 
-    // Printing the value of variable a using the pointer.
-    printf("Value: %d\n", *ptr);
-
-    // Prining the address of variable a using pointer.
+    printf("Value: %d\n", *ptr);  // *ptr is used to access the value at address stored in pointer.  
     printf("Address: %p\n", ptr);
 
-    // return 0 for successfull program execution.
     return 0;
 }
