@@ -1,4 +1,4 @@
-// Functio pass by value.
+// Function pass by value.
 
 #include <stdio.h>
 
